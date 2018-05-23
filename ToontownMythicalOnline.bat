@@ -6,7 +6,6 @@ echo Choose your connection method!
 echo.
 echo #1 - Localhost
 echo #2 - Dev Server
-echo #3 - Custom
 echo #4 - Local RemoteDB
 echo #5 - Prod Server
 echo selection:
@@ -22,8 +21,6 @@ if %INPUT%==1 (
 ) else if %INPUT%==4 (
     set TTR_GAMESERVER=127.0.0.1
 ) else if %INPUT%==5 (
-    SET TTR_GAMESERVER=lw2.ez-webz.com:7198
-) else if %INPUT%==3 (
     echo.
     set /P TTR_GAMESERVER=Gameserver: 
 ) else (
