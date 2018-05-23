@@ -36,7 +36,7 @@ if %INPUT%==2 (
     set /P ttrUsername="Username: "
     set /P ttrPassword="Password: "
 ) else (
-    set /P TT_PLAYCOOKIE=Username: 
+    set /P TTR_PLAYCOOKIE=Username: 
 )
 
 echo.
