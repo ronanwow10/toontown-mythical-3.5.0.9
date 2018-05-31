@@ -1,1 +1,1 @@
-step #1: download this project...step #2 open github project toontown infinite repo add all the folders and settings and python path there are into this project... step #3: Finally put all toonbase files into panda3d 1.10.0 for example: toontown.ai.ServiceStart and astron and etc
+step #1: download this project...step #2 open github project toontown infinite repo add all the folders and settings and python path there are into this project... step #3: Finally put all ServiceStart files into panda3d 1.10.0 for example: toontown.ai.ServiceStart and astron and etc
